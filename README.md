@@ -1,5 +1,6 @@
 - 👋 Hello, I’m Josef Duris (**Josef Ďuriš** in czech language)
-- 👀 I am interested in programing in Python. Yeah, that's it. What does writing of code mean for me? It remind to me writing a story, especially using of objects. I am always supprise when I observed a new using of a command on the Codewars or in code from an experienced programmer.  I want to be same like these people. To be a senior programmer is my target.
+  
+- 👀 I am passionate about programming in Python. What does coding mean to me? It feels a lot like writing a story, especially when working with objects. I’m always amazed when I discover a new way to use a command on Codewars or in code written by an experienced programmer. My goal is to reach their level and become a senior developer.
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
