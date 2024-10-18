@@ -1,7 +1,19 @@
-- 👋 Hello, I’m Josef Duris (**Josef Ďuriš** in czech language)
+  # 👋 Hello, I’m Josef Duris (Josef Ďuriš in czech language)
+
+##  🚀 **Junior Python Developer | Django Enthusiast | Learning Every Day**
   
-- 👀 I am passionate about programming in Python. What does coding mean to me? It feels a lot like writing a story, especially when working with objects. I’m always amazed when I discover a new way to use a command on Codewars or in code written by an experienced programmer. My goal is to reach their level and become a senior developer.
-- 🌱  I’m currently learning **Python** and other web technologies like **JavaScript**, **HTML**, and **CSS**, as well as frameworks like **Django** and **Bootstrap**, etc. I also have some experience from more than ten years ago, when I created webpages using HTML, CSS, and PHP.
+- 👀 Welcome to my GitHub profile! Coding to me feels a lot like writing a story, especially when working with objects. It's a creative process where every line of code contributes to building something meaningful. I’m always amazed when I discover a new way to use a command on Codewars or in code written by experienced developers. My goal is to reach that level of expertise and eventually become a senior developer, mastering the craft of software development.
+
+     ### **I'm currently focused on building my skills in Python and Django, creating clean, scalable, and efficient web applications. I love learning new things and am always looking for opportunities to grow as a developer.**
+
+  #  🛠️ **Skills & Technologies**  
+- Languages: ***Python, JavaScript, HTML and CSS***
+- Frameworks: **Django** (intermediate), basic experience with **JavaScript** in web development
+- Object-Oriented Programming (OOP): Studying and using **OOP principles in Python **for building small projects, including simple games
+- Version Control: **Git ** (beginner, improving with every project)
+- Problem-Solving: Regularly solving coding challenges on Codewars and handling issues in **small Django web apps**
+- Learning: **Actively participating in Full-Stack Web Development courses on Udemy, focused on Python, Django, and JavaScript**    
+            
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
