@@ -9,8 +9,8 @@
   #  🛠️ **Skills & Technologies**  
 - Languages: ***Python, JavaScript, HTML and CSS***
 - Frameworks: **Django** (intermediate), basic experience with **JavaScript** in web development
-- Object-Oriented Programming (OOP): Studying and using **OOP principles in Python **for building small projects, including simple games
-- Version Control: **Git ** (beginner, improving with every project)
+- Object-Oriented Programming (OOP): Studying and using **OOP principles in Python** for building small projects, including simple games
+- Version Control: **Git** (beginner, improving with every project)
 - Problem-Solving: Regularly solving coding challenges on Codewars and handling issues in **small Django web apps**
 - Learning: **Actively participating in Full-Stack Web Development courses on Udemy, focused on Python, Django, and JavaScript**    
             
