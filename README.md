@@ -10,6 +10,7 @@ Technical analyst with a strong background in troubleshooting complex HW/SW syst
 I spent several years working in technical analysis of complex automotive electronic systems, where I focused on defect analysis, logs, diagnostics, system behavior and root-cause investigation.
 
 Over time, I became increasingly interested in the software side of problem solving — especially automation, data processing, validation logic and backend application structure.
+I enjoy problems where it is not enough to just write code — first, the system has to be understood.
 
 I am now building my skills in Python software engineering through personal projects focused on:
 
@@ -28,9 +29,9 @@ My goal is to grow into a software engineering role where I can combine analytic
 
 ### Webgame Data Tracker
 
-A personal Python backend/data project for parsing, validating and storing alliance data from an online strategy game.
+A personal Python backend/data project for parsing, validating, storing and later presenting alliance data from an online strategy game.
 
-The project focuses on:
+The current focus is on the data-processing backend:
 
 - parsing HTML files,
 - extracting structured data from tables,
@@ -40,7 +41,12 @@ The project focuses on:
 - detecting duplicate or changed snapshots,
 - building a pipeline-style processing flow.
 
-This project helps me practice backend-oriented Python development on a realistic messy-data problem.
+The planned next step is to use the stored historical data for:
+
+- user-friendly data presentation,
+- tracking alliance and country changes over time,
+- comparing historical snapshots,
+- deriving useful statistics from collected data.
 
 ---
 
@@ -73,7 +79,7 @@ This project helps me practice backend-oriented Python development on a realisti
 
 - Git / GitHub
 - VS Code
-- Linux / WSL
+- Ubuntu / Linux / WSL
 - Bash basics
 
 ### Technical background
