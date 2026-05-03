@@ -144,3 +144,7 @@ I am especially motivated by roles where analytical thinking matters and where s
 ---
 
 ## Contact
+
+- GitHub: [Tayger84](https://github.com/Tayger84)
+- LinkedIn: www.linkedin.com/in/josef-ďuris-a3913986
+- Email: josef.duris84@gmail.com
