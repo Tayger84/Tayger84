@@ -30,6 +30,7 @@ My goal is to grow into a software engineering role where I can combine analytic
 ### Webgame Data Tracker
 
 GitHub: https://github.com/Tayger84/Webgame_tabs
+
 A personal Python backend/data project for parsing, validating, storing and later presenting alliance data from an online strategy game.
 
 The current focus is on the data-processing backend:
@@ -115,7 +116,8 @@ Main learning areas:
 ---
 
 ### Snake Game
-GitHub: https://github.com/Tayger84/Snake_in_tkinter 
+GitHub: https://github.com/Tayger84/Snake_in_tkinter
+
 A Python project focused on practicing object-oriented programming, game loop logic, collision detection and code organization.
 
 **Tech stack:** Python, Tkinter / Canvas
